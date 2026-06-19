@@ -1,0 +1,6 @@
+order_id,product_id,payment_mode,phone,order_date,amount,email
+ORD001,PRD001,upi,9876543210,2024-01-15,500.00,test@gmail.com
+ORD002,PRD002,credit_card,8123456789,2024-02-20,1200.00,user@yahoo.com
+ORD003,PRD003,invalid_mode,98765,2024-13-45,-100,bademail
+ORD004,PRD004,wallet,7890123456,2024-03-10,300.00,good@gmail.com
+ORD001,PRD005,upi,9876543210,2024-03-11,800.00,test@gmail.com
