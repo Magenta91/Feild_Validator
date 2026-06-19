@@ -40,6 +40,7 @@ venv.bak/
 
 # Streamlit
 .streamlit/secrets.toml
+frontend/.streamlit/secrets.toml
 
 # Logs
 *.log
